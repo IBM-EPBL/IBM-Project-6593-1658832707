@@ -1,5 +1,6 @@
 # IBM-Project-6593-1658832707
 Emerging Methods for Early Detection of Forest Fires
+
 TEAM ID : PNT2022TMID17130
 TEAM MEMBERS :
 SUBASH S -6113191041106
